@@ -1,0 +1,70 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1770999141162,639,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2295,279,10,10,https://blazedemo.com/,635,0,383
+1770999141540,350,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2302,279,10,10,https://blazedemo.com/,349,0,86
+1770999141746,358,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-6,text,true,,2323,279,10,10,https://blazedemo.com/,356,0,87
+1770999142182,366,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2406,279,10,10,https://blazedemo.com/,364,0,89
+1770999142242,340,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2338,279,10,10,https://blazedemo.com/,339,0,86
+1770999142463,327,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2389,279,10,10,https://blazedemo.com/,326,0,86
+1770999142452,362,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2363,279,10,10,https://blazedemo.com/,361,0,92
+1770999142792,360,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-8,text,true,,2219,279,10,10,https://blazedemo.com/,359,0,95
+1770999143418,348,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2257,279,10,10,https://blazedemo.com/,344,0,97
+1770999145057,342,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2208,279,10,10,https://blazedemo.com/,341,0,86
+1770999149535,248,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2328,542,10,10,https://blazedemo.com/reserve.php,247,0,0
+1770999149741,259,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2385,542,10,10,https://blazedemo.com/reserve.php,258,0,0
+1770999149793,268,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-8,text,true,,2515,542,10,10,https://blazedemo.com/reserve.php,267,0,0
+1770999150104,267,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2501,542,10,10,https://blazedemo.com/reserve.php,266,0,0
+1770999150496,267,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2456,542,10,10,https://blazedemo.com/reserve.php,266,0,0
+1770999150812,256,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2419,542,10,10,https://blazedemo.com/reserve.php,255,0,0
+1770999151258,283,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2360,542,10,10,https://blazedemo.com/reserve.php,282,0,0
+1770999151871,250,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-6,text,true,,2529,542,10,10,https://blazedemo.com/reserve.php,249,0,0
+1770999151880,261,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2458,542,10,10,https://blazedemo.com/reserve.php,260,0,0
+1770999152823,243,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2562,542,10,10,https://blazedemo.com/reserve.php,242,0,0
+1770999157521,277,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2565,421,10,10,https://blazedemo.com/purchase.php,276,0,0
+1770999157814,266,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2606,421,10,10,https://blazedemo.com/purchase.php,264,0,0
+1770999158219,278,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2491,421,10,10,https://blazedemo.com/purchase.php,277,0,0
+1770999158889,255,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-8,text,true,,2559,421,10,10,https://blazedemo.com/purchase.php,254,0,0
+1770999159023,256,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2498,421,10,10,https://blazedemo.com/purchase.php,255,0,0
+1770999159410,300,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2641,421,10,10,https://blazedemo.com/purchase.php,299,0,0
+1770999159592,263,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2627,421,10,10,https://blazedemo.com/purchase.php,260,0,0
+1770999160305,300,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-6,text,true,,2578,421,10,10,https://blazedemo.com/purchase.php,298,0,0
+1770999160584,399,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2471,421,10,10,https://blazedemo.com/purchase.php,398,0,0
+1770999160742,273,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2464,421,10,10,https://blazedemo.com/purchase.php,273,0,0
+1770999164353,256,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2422,631,10,10,https://blazedemo.com/confirmation.php,255,0,0
+1770999165049,249,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2287,631,10,10,https://blazedemo.com/confirmation.php,249,0,0
+1770999165846,258,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2406,631,10,10,https://blazedemo.com/confirmation.php,257,0,0
+1770999166120,256,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2476,631,10,10,https://blazedemo.com/confirmation.php,255,0,0
+1770999167713,256,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2306,631,10,10,https://blazedemo.com/confirmation.php,255,0,0
+1770999168430,267,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2363,631,10,10,https://blazedemo.com/confirmation.php,266,0,0
+1770999168622,270,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2277,632,10,10,https://blazedemo.com/confirmation.php,269,0,0
+1770999170368,265,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-8,text,true,,2469,631,10,10,https://blazedemo.com/confirmation.php,265,0,0
+1770999170386,257,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-6,text,true,,2299,631,10,10,https://blazedemo.com/confirmation.php,256,0,0
+1770999170452,272,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2268,631,10,10,https://blazedemo.com/confirmation.php,270,0,0
+1770999171289,246,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2351,279,10,10,https://blazedemo.com/,245,0,0
+1770999171783,295,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2192,279,10,10,https://blazedemo.com/,294,0,0
+1770999172860,247,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2354,279,10,10,https://blazedemo.com/,247,0,0
+1770999175028,295,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2402,279,10,10,https://blazedemo.com/,293,0,0
+1770999175492,283,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2225,279,10,10,https://blazedemo.com/,281,0,0
+1770999176612,292,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2283,279,10,10,https://blazedemo.com/,291,0,0
+1770999177779,272,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2209,279,10,10,https://blazedemo.com/,271,0,0
+1770999178028,259,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2289,279,10,10,https://blazedemo.com/,259,0,0
+1770999178570,263,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2473,542,10,10,https://blazedemo.com/reserve.php,262,0,0
+1770999179134,265,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-6,text,true,,2276,279,10,10,https://blazedemo.com/,264,0,0
+1770999179402,296,B1 - Homepage,200,OK,Scenario B - Complete Purchase 2-8,text,true,,2266,279,10,10,https://blazedemo.com/,294,0,0
+1770999180839,253,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2484,542,10,10,https://blazedemo.com/reserve.php,252,0,0
+1770999181899,260,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2382,542,10,10,https://blazedemo.com/reserve.php,259,0,0
+1770999183332,291,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2395,542,10,10,https://blazedemo.com/reserve.php,290,0,0
+1770999183977,287,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2366,542,10,10,https://blazedemo.com/reserve.php,286,0,0
+1770999184327,273,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2366,542,10,10,https://blazedemo.com/reserve.php,273,0,0
+1770999185592,256,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2482,421,10,10,https://blazedemo.com/purchase.php,256,0,0
+1770999185912,260,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2477,542,10,10,https://blazedemo.com/reserve.php,259,0,0
+1770999186033,279,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2351,542,10,10,https://blazedemo.com/reserve.php,278,0,0
+1770999188456,298,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-6,text,true,,2477,542,10,10,https://blazedemo.com/reserve.php,297,0,0
+1770999189793,309,B2 - Find Flights,200,OK,Scenario B - Complete Purchase 2-8,text,true,,2383,542,9,9,https://blazedemo.com/reserve.php,308,0,0
+1770999189989,304,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-5,text,true,,2528,421,8,8,https://blazedemo.com/purchase.php,303,0,0
+1770999190186,264,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-7,text,true,,2507,421,7,7,https://blazedemo.com/purchase.php,262,0,0
+1770999190228,280,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-10,text,true,,2512,421,6,6,https://blazedemo.com/purchase.php,279,0,0
+1770999190264,255,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-4,text,true,,2685,421,5,5,https://blazedemo.com/purchase.php,252,0,0
+1770999192254,306,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-3,text,true,,2591,421,4,4,https://blazedemo.com/purchase.php,304,0,0
+1770999192773,268,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-1,text,true,,2563,421,3,3,https://blazedemo.com/purchase.php,266,0,0
+1770999192852,258,B3 - Select Flight,200,OK,Scenario B - Complete Purchase 2-9,text,true,,2677,421,2,2,https://blazedemo.com/purchase.php,256,0,0
+1770999193425,318,B4 - Complete Purchase,200,OK,Scenario B - Complete Purchase 2-2,text,true,,2266,631,1,1,https://blazedemo.com/confirmation.php,317,0,0
